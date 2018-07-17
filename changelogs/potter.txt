@@ -1,0 +1,2 @@
+What's new in Beta 1.7 for potter:
+- Initial release
