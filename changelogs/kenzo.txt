@@ -1,2 +1,0 @@
-What's new in Beta 1.7.1 for kenzo:
-- Initial release
