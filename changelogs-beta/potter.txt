@@ -1,0 +1,5 @@
+What's new in Beta 1.7.1 for potter:
+- New logo spread across the UI
+- The orange in our color scheme is now lighter
+- Fixed slow camera
+- General improvements
