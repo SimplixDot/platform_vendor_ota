@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 https://www.androidfilehost.com/?fid=5862345805528055400
-=======
-https://www.androidfilehost.com/?fid=5862345805528049092
->>>>>>> parent of af6202f... Simplix 1.7.2 Orange
