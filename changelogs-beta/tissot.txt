@@ -1,8 +1,6 @@
-What's new in Beta 1.7.3 for tissot:
-- Using Batmance kernel (by VenkatVishalV)
-- When QS Tile Titles are hidden, long pressing a tile will now open detail view
-- Added an option to select a custom status bar logo (a cat and a whale for now)
-- Nioki font is now available through font manager
-- "Simplix." rebrand to just "Simplix" is now more noticeable throughout the UI
-- General Improvements
-
+What's new in Beta 1.7.2 for tissot:
+- Introducing the new "Center" app
+- Ships with Kiwi browser by default
+- Change from Snapdragon Gallery to Simple Mobile Tools Gallery
+- New option allows you to enable unlocking with fingerprint after restart
+- Fixed the bug where Black theme would not work on Custom
