@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 What's new in Beta 1.7.3 for tissot:
 - Using Batmance kernel (by VenkatVishalV)
 - When QS Tile Titles are hidden, long pressing a tile will now open detail view
@@ -6,3 +7,9 @@ What's new in Beta 1.7.3 for tissot:
 - "Simplix." rebrand to just "Simplix" is now more noticeable throughout the UI
 - General Improvements
 
+=======
+What's new in Beta 1.7.1 for tissot:
+- New logo spread across the UI
+- The orange in our color scheme is now lighter
+- General improvements
+>>>>>>> parent of af6202f... Simplix 1.7.2 Orange

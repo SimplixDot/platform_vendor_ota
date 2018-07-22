@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Beta 1.7.3
+=======
+Beta 1.7.1
+>>>>>>> parent of af6202f... Simplix 1.7.2 Orange
