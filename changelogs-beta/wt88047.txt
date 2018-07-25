@@ -1,0 +1,6 @@
+What's new in Beta 1.7.2 for wt88047:
+- Introducing the new "Center" app
+- Ships with Kiwi browser by default
+- Change from Snapdragon Gallery to Simple Mobile Tools Gallery
+- New option allows you to enable unlocking with fingerprint after restart
+- Fixed the bug where Black theme would not work on Custom
