@@ -1,6 +1,6 @@
-What's new in Beta 1.7.2 for potter:
-- Introducing the new "Center" app
-- Ships with Kiwi browser by default
-- Change from Snapdragon Gallery to Simple Mobile Tools Gallery
-- New option allows you to enable unlocking with fingerprint after restart
-- Fixed the bug where Black theme would not work on Custom
+What's new in Beta 1.7.3 for potter:
+- Redesigned About Phone page
+- When QS Tile Titles are hidden, long pressing a tile will now open detail view
+- "Simplix." rebrand to just "Simplix" is now more noticeable throughout the UI
+- Removed "Snapdragon Gallery" as its replacement was already present in the previous version
+- General Improvements
