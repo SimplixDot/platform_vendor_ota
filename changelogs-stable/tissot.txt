@@ -1,1 +1,9 @@
-fail
+What's new in Stable 1.8 for tissot:
+- Initial stable release
+- New header in About Phone settings section
+- New wallpaper
+- New boot animation
+- New customizations in launcher by default
+- Fixed bootloop
+- Merged August Security Patch
+- General Improvements
