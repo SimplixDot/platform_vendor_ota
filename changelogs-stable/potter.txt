@@ -1,3 +1,4 @@
+What's new in Beta 1.8 for potter:
 - Initial stable release
 - New header in About Phone settings section
 - New wallpaper
