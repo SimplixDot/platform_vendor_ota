@@ -1,12 +1,5 @@
-This will be one of the last Oreo builds you'll recieve on the Beta ring. You can now make the decision whether or not you want stable Simplix Orange (based on Oreo) releases or dive into the early beta of Simplix Blue (based on Pie).
-
-
-What's new in Beta 1.8 for potter:
-- Initial stable release
-- New header in About Phone settings section
-- New wallpaper
-- New boot animation
-- New customization in launcher by default
-- Fixed bootloop
-- Merged August Security Patch
+What's new in version 1.8.1 for potter:
+- Introducing Game Mode
+- New Recents clear all FAB
+- Fixed dialer force close
 - General Improvements
