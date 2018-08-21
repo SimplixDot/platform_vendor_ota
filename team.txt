@@ -5,4 +5,5 @@
 + Graphic Designer: Mkenzo_8 
 + Graphic Designer: Alex Besida
 + Helper & Tester: ProchyG
++ Maintainer & Contributor: Chaitanaya Mittal
 + Check maintainers in our web!
