@@ -3,4 +3,6 @@
 + Developer: Damyan Slavov
 + Developer: Pratik Pithore
 + Graphic Designer: Mkenzo_8 
++ Graphic Designer: Alex Besida
++ Helper & Tester: ProchyG
 + Check maintainers in our web!
