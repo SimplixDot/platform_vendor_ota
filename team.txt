@@ -1,9 +1,13 @@
-+ Co-Founder / Lead Developer: Nicola Nicolov 
-+ Co-Founder / Lead Developer: Yordan Stoychev 
-+ Developer: Damyan Slavov
-+ Developer: Pratik Pithore
-+ Graphic Designer: Mkenzo_8 
++ Co-Founder / Lead Developer / Maintainer for Tissot: Nicola Nicolov 
++ Co-Founder / Project Manager: Yordan Stoychev 
++ Developer / Maintainer for Potter: Damyan Slavov
++ Graphic Designer / Junior Developer: Mkenzo_8 
 + Graphic Designer: Alex Besida
-+ Helper & Tester: ProchyG
-+ Maintainer & Contributor: Chaitanaya Mittal
-+ Check maintainers in our web!
++ Maintainer for Kenzo: Pratik Pithore
++ Maintainer for Vibe k5+ / Tech Support: Chaitanaya Mittal
++ Maintainer for Mido: Sagar
++ Maintainer for Santoni: Jyotiraditya Panda
++ Helper / Tester: ProchyG
++ Tester for Tissot: Radge
+< We are open to invitations to join >
+
