@@ -1,0 +1,8 @@
+What's new in Beta 2.0.1:
+- October Security Patch
+- Added Expanded Desktop
+- Added Quick Unlock
+- Added Fingerprint Unlock After Reboot
+- Added HW Keys customizations
+- Added option to force turn on Navigation Bar
+- Fixed Camera issues
