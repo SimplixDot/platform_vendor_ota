@@ -4,8 +4,8 @@
 + Graphic Designer / Junior Developer: Mkenzo_8 
 + Graphic Designer: Alex Besida
 + Maintainer for Kenzo: Pratik Pithore
-+ Maintainer for Vibe k5+ / Tech Support: Chaitanaya Mittal
-+ Maintainer for Mido: Sagar
++ Maintainer for Vibe k5+ / Tech Support / Developer: Chaitanaya Mittal
++ Maintainer for Mido / Developer: Sagar
 + Maintainer for Santoni: Jyotiraditya Panda
 + Helper / Tester: ProchyG
 + Tester for Tissot: Radge
