@@ -1,7 +1,6 @@
 + Co-Founder / Lead Developer / Maintainer for Tissot: Nicola Nicolov 
 + Co-Founder / Project Manager: Yordan Stoychev 
 + Developer / Maintainer for Potter: Damyan Slavov
-+ Graphic Designer / Junior Developer: Mkenzo_8 
 + Graphic Designer: Alex Besida
 + Maintainer for Kenzo: Pratik Pithore
 + Maintainer for Vibe k5+ / Tech Support / Developer: Chaitanaya Mittal
