@@ -1,0 +1,5 @@
+What's new in version 1.8.1 for rolex:
+- Introducing Game Mode
+- New Recents clear all FAB
+- Fixed dialer force close
+- General Improvements
