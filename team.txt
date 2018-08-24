@@ -3,7 +3,7 @@
 + Developer / Maintainer for Potter: Damyan Slavov
 + Graphic Designer: Alex Besida
 + Maintainer for Kenzo: Pratik Pithore
-+ Maintainer for Vibe k5+ / Tech Support / Developer: Chaitanaya Mittal
++ Maintainer for Vibe k5+ / Maintainer for Rolex / Tech Support / Developer: Chaitanaya Mittal
 + Maintainer for Mido / Developer: Sagar
 + Maintainer for Santoni: Jyotiraditya Panda
 + Helper / Tester: ProchyG
