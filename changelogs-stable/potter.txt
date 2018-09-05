@@ -1,5 +1,7 @@
-What's new in version 1.8.1 for potter:
-- Introducing Game Mode
-- New Recents clear all FAB
-- Fixed dialer force close
+What's new in version 1.9 for potter:
+- Merged September Security Patch
+- Game Mode now blocks system navigation
+- You can now enable accent colored QS Tiles
+- Power menu is now accent colored and has ripple effect
+- Added SystemUI Blur Customizations
 - General Improvements
