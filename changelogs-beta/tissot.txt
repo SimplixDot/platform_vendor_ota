@@ -1,7 +1,8 @@
-What's new in version 1.9 for tissot:
-- Merged September Security Patch
-- Game Mode now blocks system navigation
-- You can now enable accent colored QS Tiles
-- Power menu is now accent colored and has ripple effect
-- Added SystemUI Blur Customizations
-- General Improvements
+Simplix Blue is here! Be ready to experience Android Pie!
+
+What's new:
+- Everything from Android Pie
+- Changed kernel to strix (by abhinavagrd_1129)
+- Redesigned Center app
+- New boot animation
+- and much more!
