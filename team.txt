@@ -1,7 +1,6 @@
 + Founder / Lead Developer / Maintainer for Tissot: Nicola Nicolov 
 + Developer / Maintainer for Potter: Damyan Slavov
 + Developer / Tester: ProchyG
-+ Website developer / Helper: Mkenzo_8 
 + Graphic Designer: Alex Besida
 + Maintainer for Kenzo: Pratik Pithore
 + Maintainer for s2: MrDarkness 
