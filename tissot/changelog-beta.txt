@@ -1,6 +1,5 @@
-What's new in Beta 2.0.2:
-- Fresh new icons!
+What's new in Beta 2.0.3:
 - New wallpaper
-- Added Status Bar Clock customization
-- Fixed USB settings
-- General Improvements
+- November security patch merged
+- Introducing the Notes app
+- General improvements
